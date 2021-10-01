@@ -1,6 +1,2 @@
-proyecto para realizar cuatros diferentes operaciones. 
-SUMA
-RESTA
-MULTIPLICACION
-DIVISION
+Esto es una modificacion al fichero matematicas
 
