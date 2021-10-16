@@ -1,1 +1,2 @@
-Probando el merge con la solución de conflictos desde master
+Probando el merge con la solución de conflictos 
+
