@@ -9,3 +9,6 @@
 8. La información almacenada en dispositivos móviles debería ser la mínima, y más si se trata de contraseñas o datos de sesión. Este tipo de dispositivos son los más propensos a ser que se pierdan y por lo tanto su información puede ser expuestas más fácilmente.
 9. Cualquier cambio que se haga debería quedar documentado, esto facilitará modificaciones futuras.
 10. Poner más cuidado en los puntos más vulnerables, no hay que olvidar que el nivel máximo de seguridad viene dado por el punto más débil.
+11. Se debe tratar de mantener un diseño simple. Hay menos que posibilidad a equivocarse, menos inconsistencias son posibles y el código es más fácil de entender y depurar.
+12. Un sistema debe aislar a los usuarios y sus actividades entre sí. Los usuarios no deben compartir procesos o subprocesos y los canales de información no deben compartirse entre usuarios.
+13.  Los mecanismos de seguridad deben ser fáciles de instalar, configurar y usar para que un usuario esté menos tentado a tratar de omitirlos.
