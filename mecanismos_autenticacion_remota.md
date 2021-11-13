@@ -1,5 +1,6 @@
 # Mecanismos de autenticación remota
 Un mecanismo de autenticación define reglas sobre información de seguridad, como si una credencial es reenviable a otro proceso de Java™ y el formato de cómo se almacena la información de seguridad en credenciales y señales. Puede seleccionar y configurar un mecanismo de autenticación utilizando la consola administrativa.
+La autenticación es una manera de controlar el acceso cuando los usuarios intentan acceder a un sistema remoto. La autenticación se puede configurar en el nivel del sistema y en el nivel de red. Después de que un usuario haya obtenido acceso a un sistema remoto, la autorización es una manera de limitar las operaciones que el usuario puede realizar. En la siguiente tabla, se muestran los servicios que proporcionan autenticación y autorización.
 
 ## Autenticación por token de sesión
 En la autenticación por token de sesión, conocida normalmente como autenticación por sesión, se genera un token asociado internamente a un usuario. Este token suele tener además una caducidad establecida.
